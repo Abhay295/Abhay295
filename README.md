@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abhay295
+- 👋 Hi, I'm Abhay Hingu
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning MERN stack developing
 - 💞️ I’m looking to collaborate on projects
